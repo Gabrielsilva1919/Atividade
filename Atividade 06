@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tabela de Produtos</title>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Preço</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cerveja</td>
+      <td>R$ 8,00</td>
+      <td>pra beber em quanto joga o truco </td>
+    </tr>
+    <tr>
+      <td>mesa </td>
+      <td>R$ 50,00</td>
+      <td>para jogar o truco</td>
+    </tr>
+    <tr>
+      <td>Baralho </td>
+      <td>R$ 10,00</td>
+      <td>Para jogar aquele truquinho</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
