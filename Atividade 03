@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Biel rei do truco</title>
+    </head>
+    <body>
+        <ol>
+            <li>karate kid</li>
+            <li>mortal combat</li>
+            <li>meu malvado favorito</li>
+        </ol>
+        <ul>
+            <li>po de cafe</li>
+            <li>agua</li>
+            <li>açucar</li>
+            <li>caneco</li>
+            <li>fogao</li>
+        </ul>
+    </body>
+</html>
